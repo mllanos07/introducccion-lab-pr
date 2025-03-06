@@ -9,8 +9,9 @@ body {
     
   }
   ul { margin: 10px; }
-  p{ 
-      margin: 20px 0;
+  p{
+    text-align: center; 
+    margin: 20px 0;
    }
   header {
     background-color: #000;
