@@ -54,9 +54,6 @@ body {
     border-radius: 10px; 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
   }
-  .btn-group {
-    display: flex;
-  }
   
   .btn {
     background-color: transparent;
@@ -69,14 +66,23 @@ body {
     border-radius: 12px;
   }
   
-  .btn a {
-    color: inherit;
-    text-decoration: none;
-  }
-  
   .btn:hover {
     background-color: #28a745;
     color: white;
+  }
+  .enlace-esquina:hover {
+    background-color: #28a745;
+    color: white;
+  }
+  .enlace-esquina{
+    background-color: transparent;
+    border: 1px solid #28a745;
+    color: #28a745;
+    padding: 8px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 12px;
   }
     footer{
       background-color: black;

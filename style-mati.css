@@ -1,0 +1,99 @@
+body {
+  font-family: Arial, sans-serif; margin: 20px;
+  margin: 0;
+  padding: 0;
+  background-image: url('https://s1.cdn.autoevolution.com/images/news/the-first-koenigsegg-jesko-absolut-is-out-should-we-hope-for-that-new-speed-record-228653-7.jpg');
+}
+.btn {
+  background-color: transparent;
+  border: 1px solid #28a745;
+  color: #28a745;
+  padding: 8px 20px;
+  margin: 0 5px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 12px;
+}
+
+.btn:hover {
+  background-color: #28a745;
+  color: white;
+}
+.enlace-esquina:hover {
+  background-color: #28a745;
+  color: white;
+}
+ul { margin: 10px; }
+p{ 
+    text-align: center;
+    margin: 20px 0;
+ }
+header {
+  background-color: #000;
+  text-align: center;
+  padding:30px;
+}
+img {
+  border-radius: 10%;
+  width: 50%;
+  height: auto;
+}
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+section {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+a{
+  color: #007bff; text-decoration: none;
+}
+h1,
+h2 {
+  color: #61a0e2;
+  text-align: center;
+}
+li {
+  margin-bottom: 10px;
+  margin: 5px 0; 
+}
+.container {
+  width: 70%; 
+  margin: 0 auto; 
+  background-color: white; 
+  padding: 20px; 
+  border-radius: 10px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+.enlace-esquina2 {
+  position: absolute;
+  top: 70px; 
+  left: 350px; 
+  text-decoration: none;
+  color: #000; 
+  background-color: #fff; 
+  padding: 10px 20px; 
+  border: 1px solid #000; 
+  border-radius: 5px; 
+  }
+.enlace-esquina {
+  position: absolute;
+  top: 70px; 
+  right: 350px; 
+  text-decoration: none;
+  color: #000; 
+  background-color: #fff; 
+  padding: 10px 20px; 
+  border: 1px solid #000; 
+  border-radius: 5px; 
+  }
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
