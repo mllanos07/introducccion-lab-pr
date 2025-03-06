@@ -1,8 +1,9 @@
 body {
-  font-family: Arial, sans-serif; margin: 20px;
+  font-family: Arial, sans-serif;
+  margin: 20px;
   margin: 0;
   padding: 0;
-  background-image: url('https://s1.cdn.autoevolution.com/images/news/the-first-koenigsegg-jesko-absolut-is-out-should-we-hope-for-that-new-speed-record-228653-7.jpg');
+  background-image: url("https://s1.cdn.autoevolution.com/images/news/the-first-koenigsegg-jesko-absolut-is-out-should-we-hope-for-that-new-speed-record-228653-7.jpg");
 }
 .btn {
   background-color: transparent;
@@ -23,15 +24,17 @@ body {
   background-color: #28a745;
   color: white;
 }
-ul { margin: 10px; }
-p{ 
-    text-align: center;
-    margin: 20px 0;
- }
+ul {
+  margin: 10px;
+}
+p {
+  text-align: center;
+  margin: 20px 0;
+}
 header {
   background-color: #000;
   text-align: center;
-  padding:30px;
+  padding: 30px;
 }
 img {
   border-radius: 10%;
@@ -49,8 +52,9 @@ section {
   padding: 20px;
   margin-bottom: 20px;
 }
-a{
-  color: #007bff; text-decoration: none;
+a {
+  color: #007bff;
+  text-decoration: none;
 }
 h1,
 h2 {
@@ -59,39 +63,39 @@ h2 {
 }
 li {
   margin-bottom: 10px;
-  margin: 5px 0; 
+  margin: 5px 0;
 }
 .container {
-  width: 70%; 
-  margin: 0 auto; 
-  background-color: white; 
-  padding: 20px; 
-  border-radius: 10px; 
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  width: 70%;
+  margin: 0 auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 .enlace-esquina2 {
   position: absolute;
-  top: 70px; 
-  left: 350px; 
+  top: 70px;
+  left: 350px;
   text-decoration: none;
-  color: #000; 
-  background-color: #fff; 
-  padding: 10px 20px; 
-  border: 1px solid #000; 
-  border-radius: 5px; 
-  }
+  color: #000;
+  background-color: #fff;
+  padding: 10px 20px;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
 .enlace-esquina {
   position: absolute;
-  top: 70px; 
-  right: 350px; 
+  top: 70px;
+  right: 350px;
   text-decoration: none;
-  color: #000; 
-  background-color: #fff; 
-  padding: 10px 20px; 
-  border: 1px solid #000; 
-  border-radius: 5px; 
-  }
-footer{
+  color: #000;
+  background-color: #fff;
+  padding: 10px 20px;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+footer {
   background-color: black;
   color: white;
   text-align: center;
